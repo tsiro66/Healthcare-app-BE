@@ -1,4 +1,4 @@
-# Backend - Master Detail Project
+# Backend - Healthcare Project
 
 ## Overview
 This backend application supports a healthcare appointment management system. Built with Java and Spring Boot, it implements a master-detail relationship between patients and appointments, secured with JWT tokens.
